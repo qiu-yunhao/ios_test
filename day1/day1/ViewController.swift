@@ -127,6 +127,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     }
     
     @objc func timerStop(button : UIButton){
+        print(button.tag)
         if(!isClick){
             isClick = true
             self.timer = Timer.scheduledTimer(timeInterval: 0.01, target: self, selector: #selector(getTime), userInfo: nil, repeats: true)
