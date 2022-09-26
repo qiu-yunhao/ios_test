@@ -1,0 +1,11 @@
+platform :ios, '15.0'
+
+use_frameworks!
+
+target 'Day4' do
+  pod 'YogaKit', '~> 1.5'
+  pod 'SwiftyJSON', '~> 4.0'
+  pod 'Alamofire', '~> 5.0'
+  pod 'AlamofireImage', '~> 4.1'
+end
+

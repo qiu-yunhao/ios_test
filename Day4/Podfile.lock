@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.4.4)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - SwiftyJSON (4.3.0)
+  - Yoga (1.14.0)
+  - YogaKit (1.18.1):
+    - Yoga (~> 1.14)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - AlamofireImage (~> 4.1)
+  - SwiftyJSON (~> 4.0)
+  - YogaKit (~> 1.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - SwiftyJSON
+    - Yoga
+    - YogaKit
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
+  YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
+
+PODFILE CHECKSUM: c3c1c81735013c3261d0dab6bba087425b9ede21
+
+COCOAPODS: 1.11.2
